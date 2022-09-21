@@ -9,6 +9,7 @@ I use Junit tests to test the model.
 
 <br />
 The View presents the data to the user. It is the graphical user interface. I used Java's Swing library such as JFrame to create the view.
+<br />
 
 <br />
 I created the controller that is responsible for controlling the application logic and acted as the coordinator between the View and the Model.
