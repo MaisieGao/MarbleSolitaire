@@ -6,7 +6,7 @@ You could go to res/project6.jar and press it to play.
 
 <hr />
 *I	created interactive and graphic games of marble solitaire following the Model View Controller (MVC) architecture using Java. 
-
+<br/>
 *I first created the Model following the rule of tictactoe, and think about what operations I need to perform such a game. Such as whose turn it is, how to make a move, whether the game is over, who win the game, and describe the current game state on the board in a string.
 
 *I created necessary attributes and formalize these operations as methods in the tictactoe model. 
