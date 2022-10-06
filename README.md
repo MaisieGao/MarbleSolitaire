@@ -1,3 +1,6 @@
+Game view:
+<img width="497" alt="Screen Shot 2022-10-05 at 5 24 08 PM" src="https://user-images.githubusercontent.com/90473308/194187212-2ea26d3b-a280-48a5-b2a0-351d3eb27a6c.png">
+
 I	created interactive and graphic games of marble solitaire following the Model View Controller (MVC) architecture using Java. 
 <br />
 
