@@ -1,4 +1,5 @@
 **Game View**
+<img width="501" alt="Screen Shot 2023-03-03 at 2 36 15 PM" src="https://user-images.githubusercontent.com/90473308/222844694-770c9262-19b3-4488-acbe-b0bb7de03a6f.png">
 
 <img width="497" alt="Screen Shot 2022-10-05 at 5 24 08 PM" src="https://user-images.githubusercontent.com/90473308/194187212-2ea26d3b-a280-48a5-b2a0-351d3eb27a6c.png">
 
